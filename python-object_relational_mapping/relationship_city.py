@@ -4,8 +4,6 @@ from relationship_state import Base
 """
     Module that performs creates a States class based off of Base.
 """
-
-
 class City(Base):
     """
         The ``City`` class which inherits from ``Base`` class.
