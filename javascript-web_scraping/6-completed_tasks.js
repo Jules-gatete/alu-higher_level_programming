@@ -38,4 +38,3 @@ if (process.argv.length > 2) {
 } else {
   console.log('Please provide the API URL as an argument.');
 }
-
